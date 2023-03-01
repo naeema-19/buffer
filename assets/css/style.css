@@ -223,7 +223,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #3194db;
+  background: #68A538;
 }
 
 .navbar .dropdown ul {
@@ -455,7 +455,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #3194db;
+  background: #68A538;
 }
 
 #hero .icon-boxes {
@@ -995,7 +995,7 @@ section {
 }
 
 .services .iconbox-pink i {
-  color: #e80368;
+  color: #74AC48;
 }
 
 .services .iconbox-pink:hover .icon i {
@@ -1003,7 +1003,7 @@ section {
 }
 
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #74AC48;
 }
 
 .services .iconbox-yellow i {
@@ -1702,7 +1702,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #3194db;
+  background: #68A538;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1907,7 +1907,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3194db;
+  background: #68A538;
 }
 #footer .footer-bottom {
   border-top: 1px solid #d9dce2;
@@ -1951,7 +1951,8 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3194db;
+  background: #68A538;
   color: #fff;
   text-decoration: none;
 }
+
