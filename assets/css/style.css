@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #000;
 }
 
 a {
@@ -565,7 +565,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #919191;
+  color: #000;
 }
 
 /*--------------------------------------------------------------
@@ -1104,7 +1104,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #444444;
+  color: #000;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -1371,7 +1371,7 @@ section {
   font-style: italic;
   font-size: 14px;
   line-height: 26px;
-  color: #777777;
+  color: #000;
 }
 
 .team .member:hover .social {
@@ -1784,7 +1784,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #444444;
+  color: #000;
   font-size: 14px;
   background: #f8fbfe;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
@@ -1812,7 +1812,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #777777;
+  color: #000;
 }
 
 #footer .footer-top h4 {
@@ -1851,7 +1851,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #000;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1869,7 +1869,7 @@ section {
 #footer .footer-newsletter h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color: #000;
   position: relative;
   padding-bottom: 12px;
 }
